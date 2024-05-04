@@ -1,4 +1,4 @@
-BETA - 0.6.0
+BETA - 0.6.2
 
 ## TO DO:
 - Client side locales | DONE
@@ -7,7 +7,7 @@ BETA - 0.6.0
 - Alarm system | PARTIAL DONE
 - On fail remove check | NOT DONE YET
 - Client side perfomance upgrade | NOT DONE YET
-- Server side performance upgrade | NOT DONE YET
-- Discord logs needs nice formatting | NOT DONE YET
+- Server side performance upgrade | DONE
+- Discord logs needs nice formatting | DONE
 - Client side debug statements | NOT DONE YET
-- Server side debug statements | PARTIAL DONE
+- Server side debug statements | DONE
