@@ -1,0 +1,37 @@
+## Changelog 0.5.0 (already pushed)
+- Introduced a comprehensive money laundering system.
+- Added job-based interaction restrictions.
+- Implemented stage progression for the laundering process.
+- Introduced building entry and exit features with relevant state changes for lights and alarms.
+- Added a cooldown mechanism to prevent abuse.
+- Created a `debugLog` function for debugging, controlled by a configuration flag.
+- Implemented a `sendLog` function for logging to Discord webhooks.
+- Added an `isAllowedToInteract` function to check job-based permissions.
+- Created a `handleStageProgression` function to manage stage transitions.
+- Implemented a `registerStageEvents` function for event registration.
+- Added a `processStage` function for stage processing.
+- Created a `handleSkillCheckFailure` function for managing failed skill checks.
+- Implemented `determineItems` and `determineAmount` functions for item and amount determination.
+- Introduced `setCooldown` and `isOnCooldown` functions for managing cooldowns.
+- Added a `logTransaction` function for logging transaction details.
+- Created `enterBuilding` and `exitBuilding` functions for managing building entry and exit.
+- Introduced `toggleAlarm` and `toggleLights` functions for building state toggling.
+- Added various configuration settings, including debugging, logging, and whitelisting.
+- Introduced a localization system with JSON files for English, Dutch, German, and French languages.
+
+## Changelog 0.6.1 (already pushed)
+- Added escrow ignore to fxmanifest
+
+## Changelog 0.6.2 (already pushed)
+- Added CHANGELOG text file
+- Changed configuration file
+- Added preview video link
+- Fixed missing locale string from client-side
+- Finished adding all server-side debug statements (string for them are added to locale)
+- Updated discord invite link
+- Changed the discord log embed text
+
+## Changelog 0.6.3 (not ready yet)
+-
+-
+-
